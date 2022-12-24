@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Stellar Pro';
+    src: url('StellarPro-Medium.eot');
+    src: local('Stellar Pro Medium'), local('StellarPro-Medium'),
+        url('StellarPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('StellarPro-Medium.woff2') format('woff2'),
+        url('StellarPro-Medium.woff') format('woff'),
+        url('StellarPro-Medium.ttf') format('truetype'),
+        url('StellarPro-Medium.svg#StellarPro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Stellar Pro Typo';
+    src: url('StellarPro-Typo.eot');
+    src: local('Stellar Pro Typo'), local('StellarPro-Typo'),
+        url('StellarPro-Typo.eot?#iefix') format('embedded-opentype'),
+        url('StellarPro-Typo.woff2') format('woff2'),
+        url('StellarPro-Typo.woff') format('woff'),
+        url('StellarPro-Typo.ttf') format('truetype'),
+        url('StellarPro-Typo.svg#StellarPro-Typo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
